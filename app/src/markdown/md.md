@@ -15,3 +15,7 @@ Solar technologies convert sunlight into electrical energy either through photov
 Wind is converted into electricity using the aerodynamic force from the rotor blades. More specifically, wind flows across the blade and the air pressure on one side of the blade decreases. The difference in air pressure across the two sides of the blade creates both lift and drag.
 
 Hydropower is an affordable source of electricity, due to relying only on the energy from moving water. This source of energy holds these relatively low costs throughout the duration of a full project lifetime in terms of maintenance, operations, and fuel.
+
+# sigma
+
+## sigma balls
